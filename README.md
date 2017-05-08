@@ -1,3 +1,3 @@
 # StopTimeTables
 Release Repo
-consist of release ready version of app
+consist of release ready version of app APK
